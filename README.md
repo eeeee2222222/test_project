@@ -1,2 +1,3 @@
-# test_project
-Мой первый репозиторий на GitHub
+README.md:
+bash
+git checkout -b feature/update-readme
